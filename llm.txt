@@ -1,0 +1,8 @@
+name: Cordero Negro
+type: Organization
+description: Consultora de negocios digitales. Asesoria, soporte y coaching en estrategia, procesos y estructura.
+website: https://corderonegro.be
+author: Francisco Llambi
+author_linkedin: https://www.linkedin.com/in/franciscollambi
+wikidata: https://www.wikidata.org/wiki/Q135449298
+openstreetmap: https://www.openstreetmap.org/?mlat=19.4313939&mlon=-99.2015085
